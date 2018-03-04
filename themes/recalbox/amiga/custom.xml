@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<image name="background" extra="true">
+		</image>
+		<image name="band1" extra="true">
+			<color>192753</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>5BA079</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>F9EA38</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>ED2224</color>
+		</image>
+		<text name="info1" extra="true">
+			<text>The Amiga is a family of personal computers sold by</text>
+			<pos>0.38 0.72</pos>
+		</text>
+		<text name="info2" extra="true">
+			<text>Commodore starting in 1985. The original model was</text>
+			<pos>0.38 0.74</pos>
+		</text>
+		<text name="info3" extra="true">
+			<text>part of a wave of 16 and 32 bit computers that featured</text>
+			<pos>0.38 0.76</pos>
+		</text>
+		<text name="info4" extra="true">
+			<text>256KB or more of RAM, mouse-based GUIs, and significantly</text>
+			<pos>0.38 0.78</pos>
+		</text>
+		<text name="info5" extra="true">
+			<text>improved graphics and audio over 8-bit systems.</text>
+			<pos>0.38 0.80</pos>
+		</text>		
+	</view>
+
+	<view name="basic, detailed">
+		<image name="band1" extra="true">
+			<color>192753</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>5BA079</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>F9EA38</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>ED2224</color>
+		</image>
+	</view>
+</theme>
