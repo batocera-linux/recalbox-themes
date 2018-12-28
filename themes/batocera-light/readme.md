@@ -17,6 +17,11 @@ Detail View without scraped info
 
 Changelog
 =========
+28/12/2018
+
+Missing Systems :
+- Intellivision (png images)
+- Sega Saturn (png images)
 
 29/05/2016
 
